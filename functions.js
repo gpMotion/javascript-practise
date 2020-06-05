@@ -1,5 +1,5 @@
-function favoriteAnimal(pet) {
-    console.log(pet + " is my favorite animal!")
-  }
-  
-  favoriteAnimal('Goat')
+function add7(number){
+  console.log(number + 7)
+}
+
+number = 1
